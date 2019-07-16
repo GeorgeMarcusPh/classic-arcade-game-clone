@@ -9,7 +9,7 @@
 ## Instructions
 
 - **Download**
- Download the game files from [GitHub](https://github.com/GeorgeMarcusPh/classic-arcade-game-clone). You will find a green button on the top right corner of the screen that says download or clone then unzip them into a folder then open the **index.html** file in a browser and voi-la the game starts.
+ Download the game files from [GitHub](https://github.com/GeorgeMarcusPh/classic-arcade-game-clone). You will find a green button on the top right corner of the screen that says clone or download then unzip them into a folder then open the **index.html** file in a browser and voi-la the game starts.
 
 - **Run**
  Once you open the game, it starts by showing the player and the Gems are scattered over the game screen. Enemies move across the paved area in random speed. 
